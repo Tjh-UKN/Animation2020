@@ -150,4 +150,152 @@ Peng在控制四足动物模型时应用了强化学习以适应不同的2d地�
 
 
 ## 4 应用和展望
+## 5 参考文献
+ 
+0.DANIEL HOLDEN, University of Edinburgh、TAKU KOMURA, University of Edinburgh、JUN SAITO, Method Studios，SIGGRAPH2017《Phase-Functioned Neural Networks for Character Control》
+1. HE ZHANG † , University of Edinburgh、SEBASTIAN STARKE , University of Edinburgh
+TAKU KOMURA, University of Edinburgh、JUN SAITO, Adobe Research, SIGGRAPH2018《Mode-Adaptive Neural Networks for Quadruped Motion Control》
+
+2.SEBASTIAN STARKE† , University of Edinburgh, United Kingdom HE ZHANG† , University of Edinburgh TAKU KOMURA, University of Edinburgh JUN SAITO, Adobe Research, USA ，SIGGRAPH2019《Neural State Machine for Character-Scene Interactions》
+
+3. Nicholas R Howe, Michael E Leventon, and William T Freeman. 1999. Bayesian Reconstruction of 3D Human Motion from Single-Camera Video.. In Proc. NIPS
+
+4. Alla Safonova, Jessica K Hodgins, and Nancy S Pollard. 2004. ACM Trans on Graph 23, 3 (2004),《Synthesizing physically realistic human motion in low-dimensional, behavior-specific spaces. 》//PCA
+
+5. Jinxiang Chai and Jessica K. Hodgins. 2005. Performance Animation from Lowdimensional Control Signals. ACM Trans on Graph 24, 3 (2005)
+
+6. Jochen Tautges, Arno Zinke, Björn Krüger, Jan Baumann, Andreas Weber, Thomas Helten, Meinard Müller, Hans-Peter Seidel, and Bernd Eberhardt. 2011. Motion reconstruction using sparse accelerometer data. ACM Trans on Graph 30, 3 (2011)
+
+7. Keith Grochow, Steven L Martin, Aaron Hertzmann, and Zoran Popović. 2004. Stylebased inverse kinematics. ACM Trans on Graph 23, 3 (2004), 522–531.
+
+8. Sergey Levine, Jack M Wang, Alexis Haraux, Zoran Popović, and Vladlen Koltun. 2012. Continuous character control with low-dimensional embeddings. ACM Trans on Graph 31, 4 (2012), 28.
+
+9. Jack M. Wang, David J. Fleet, and Aaron Hertzmann. 2008. Gaussian Process Dynamical Models for Human Motion. IEEE PAMI 30, 2 (2008), 283–298.
+
+10. Carl Edward Rasmussen and Zoubin Ghahramani. 2002. Infinite mixtures of Gaussian process experts. In Proc. NIPS. 881–888.
+
+11. Graham W Taylor and Geoffrey E Hinton. 2009. Factored conditional restricted Boltzmann machines for modeling motion style. In Proc. ICML. ACM, 1025–1032.
+
+12. Katerina Fragkiadaki, Sergey Levine, Panna Felsen, and Jitendra Malik. 2015. Recurrent network models for human dynamics. In Proc. ICCV. 4346–4354.
+
+13. Daniel Holden, Jun Saito, and Taku Komura. 2016. A deep learning framework for character motion synthesis and editing. ACM Trans on Graph 35, 4 (2016)
+
+14. Manfred Lau and James J Kuffner. 2005. Behavior planning for character animation. In
+Proc. SCA.
+
+15. Alla Safonova and Jessica K Hodgins. 2007. Construction and optimal search of interpolated motion graphs. ACM Trans on Graph 26, 3 (2007), 106
+
+16. Stelian Coros, Philippe Beaudoin, Kang Kang Yin, and Michiel van de Pann. 2008. Synthesis of constrained walking skills. ACM Trans on Graph 27, 5 (2008), 113
+
+17.. Libin Liu, KangKang Yin, Michiel van de Panne, Tianjia Shao, and Weiwei Xu. 2010. Sampling-based contact-rich motion control. ACM Trans on Graph 29, 4 (2010),
+
+18. Jinxiang Chai and Jessica K. Hodgins. 2007. Constraint-based motion optimization using a statistical dynamic model. ACM Trans on Graph 26, 3 (2007).
+
+19. Jianyuan Min and Jinxiang Chai. 2012. Motion graphs++: a compact generative model for semantic motion analysis and synthesis. ACM Trans on Graph 31, 6 (2012),
+
+20. Jehee Lee and Kang Hoon Lee. 2004. Precomputing avatar behavior from human motion data. Proc. SCA (2004), 79–87
+
+21. Yongjoon Lee, Kevin Wampler, Gilbert Bernstein, Jovan Popović, and Zoran Popović. 2010. Motion fields for interactive character locomotion. ACM Trans on Graph 29, 6 (2010), 
+138.
+
+22. Sergey Levine, Jack M Wang, Alexis Haraux, Zoran Popović, and Vladlen Koltun. 2012. Continuous character control with low-dimensional embeddings. ACM Trans on Graph 31, 4 
+(2012), 28.
+
+23. Wan-Yen Lo and Matthias Zwicker. 2008. Real-time planning for parameterized human motion. In Proc. I3D. 29–38.
+
+24. Xue Bin Peng, Glen Berseth, and Michiel van de Panne. 2016. Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning. ACM Trans on Graph 35, 4 (2016).
+
+25. Simon Clavet. 2016. Motion Matching and The Road to Next-Gen Animation. In Proc. of GDC 2016.
+
+26. Kang Hoon Lee, Myung Geol Choi, and Jehee Lee. 2006. Motion patches: building blocks for virtual environments annotated with motion data. ACM Trans on Graph 25, 3 (2006), 
+898–906.
+
+27. Helmut Grabner, Juergen Gall, and Luc Van Gool. 2011. What makes a chair a chair?. In Proc. IEEE CVPR. 1529–1536.
+
+28. Abhinav Gupta, Scott Satkin, Alexei A Efros, and Martial Hebert. 2011. From 3d scene geometry to human workspace. In Proc. IEEE CVPR. 1961–1968.
+
+29. Vladimir G. Kim, Siddhartha Chaudhuri, Leonidas Guibas, and Thomas Funkhouser. 2014. Shape2pose: Human-centric shape analysis. ACM Trans on Graph 33, 4 (2014), 120
+
+30. Changgu Kang and Sung-Hee Lee. 2014. Environment-Adaptive Contact Poses for Virtual Characters. In Computer Graphics Forum, Vol. 33. Wiley Online Library, 1–10.
+
+31. Manolis Savva, Angel X. Chang, Pat Hanrahan, Matthew Fisher, and Matthias Nießner. 2016. PiGraphs: Learning Interaction Snapshots from Observations. ACM Trans on Graph 35, 4 
+(2016)
+
+32. Mubbasir Kapadia, Xu Xianghao, Maurizio Nitti, Marcelo Kallmann, Stelian Coros, Robert W Sumner, and Markus Gross. 2016. Precision: precomputing environment semantics for contact-rich character animation. In Proc. I3D. 29–37
+
+33. Tejas D Kulkarni, William F Whitney, Pushmeet Kohli, and Josh Tenenbaum. 2015. Deep convolutional inverse graphics network. In Proc. NIPS. 2539–2547.
+
+34. Roland Memisevic. 2013. Learning to relate images. IEEE PAMI 35, 8 (2013),
+
+35.  In Proceedings of SIGGRAPH’85, 1985, 255-262. Michael Girard, Anthony A Maciejewski. Computational Modeling for the Computer Animation of Legged Figures.
+
+36. Blumberg, B., and Galyean, T. 1995. Multi-level direction of autonomous creatures for real-time virtual environments. In Proc. ACM SIGGRAPH, ACM, 47--54.
+
+37. Hecker, C., Raabe, B., Enslow, R. W., DeWeese, J., Maynard, J., and van Prooijen, K. 2008. Real-time motion retargeting to highly varied user-created morphologies. ACM 
+Trans. on Graphics (Proc. SIGGRAPH) 27, 3.
+
+38. Torkos, N., and van de Panne, M. 1998. Footprint-based quadruped motion synthesis. In Proc. Graphics Interface, 151--160
+
+39. Kevin Wampler and Zoran Popović. 2009. Optimal gait and form for animal locomotion. In ACM Transactions on Graphics (TOG), Vol. 28. ACM, 60. 40.
+
+41. Kevin Wampler, Zoran Popović, and Jovan Popović. 2014. Generalizing locomotion style to new animals with inverse optimal regression. ACM Transactions on Graphics (TOG) 33, 4 
+(2014), 49.
+
+42. Sergey Levine and Jovan Popović. 2012. Physically Plausible Simulation for Character Animation. In Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA ’12). Eurographics Association, Goslar Germany, Germany, 221–230.
+
+43. Marc H. Raibert and Jessica K. Hodgins. 1991. Animation of dynamic legged locomotion. In Proceedings of the 18th Annual Conference on Computer Graphics and Interactive 
+Techniques, SIGGRAPH 1991, Providence, RI, USA, April 27-30, 1991. 349–358.
+
+44. Michiel van de Panne. 1996. Parameterized gait synthesis. IEEE Computer Graphics and Applications 16, 2 (1996), 40–4
+
+45. Stelian Coros, Andrej Karpathy, Ben Jones, Lionel Reveret, and Michiel Van De Panne. 2011. Locomotion skills for simulated quadrupeds. In ACM Transactions on Graphics (TOG), 
+Vol. 30. ACM, 59.
+
+46. Xue Bin Peng, Glen Berseth, and Michiel van de Panne. 2015. Dynamic Terrain Traversal Skills Using Reinforcement Learning. ACM Trans. Graph. 34, 4, Article 80 (July 2015), 11 pages.
+
+47. Xue Bin Peng, Glen Berseth, and Michiel van de Panne. 2016. Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning. ACM Transactions on Graphics (Proc. 
+SIGGRAPH 2016) 35, 4 (2016).
+
+48. Kang Hoon Lee, Myung Geol Choi, and Jehee Lee. 2006. Motion patches: building blocks for virtual environments annotated with motion data. ACM Trans on Graph 25, 3 (2006).
+
+49. Shailen Agrawal and Michiel van de Panne. 2016. Task-based Locomotion. ACM Trans on Graph 35, 4 (2016).
+
+50. Tomohiko Mukai and Shigeru Kuriyama. 2005. Geostatistical motion interpolation. ACM Trans on Graph 24, 3 (2005).
+
+51. J.M. Wang, D.J. Fleet, and A. Hertzmann. 2008. Gaussian Process Dynamical Models for Human Motion. IEEE PAMI 30, 2 (Feb 2008
+
+52. Min Gyu Choi, Jehee Lee, and Sung Yong Shin. 2003. Planning biped locomotion using motion capture data and probabilistic roadmaps. ACM Trans on Graph 22, 2 (2003)
+
+53. Wan-Yen Lo and Matthias Zwicker. 2008. Real-time planning for parameterized human motion. In Proc. SCA. 29–38.
+
+54. Wan-Yen Lo, Claude Knaus, and Matthias Zwicker. 2012. Learning motion controllers with adaptive depth perception. In Proc. SCA. 145–154.
+
+55. Alla Safonova and Jessica K Hodgins. 2007. Construction and optimal search of interpolated motion graphs. ACM Trans on Graph 26, 3 (2007).
+
+56. Jianyuan Min and Jinxiang Chai. 2012. Motion Graphs++: A Compact Generative Model for Semantic Motion Analysis and Synthesis. ACM Trans on Graph 31, 6 (2012), 153:1–153:12
+
+57. Igor Mordatch, Emanuel Todorov, and Zoran Popović. 2012. Discovery of complex behaviors through contact-invariant optimization. ACM Trans on Graph 31, 4 (2012).
+
+58. Wenping Zhao, Jianjie Zhang, Jianyuan Min, and Jinxiang Chai. 2013. Robust realtime physics-based motion control for human grasping. ACM Trans on Graph 32, 6 (2013)
+
+59. Katerina Fragkiadaki, Sergey Levine, Panna Felsen, and Jitendra Malik. 2015. Recurrent network models for human dynamics. In Proc. ICCV. 4346–4354.
+
+60. Zimo Li, Yi Zhou, Shuangjiu Xiao, Chong He, Zeng Huang, and Hao Li. 2017. Autoconditioned recurrent networks for extended complex human motion synthesis. arXiv preprint 
+arXiv:1707.05363 (2017
+
+61. Ruben Villegas, Jimei Yang, Duygu Ceylan, and Honglak Lee. 2018. Neural Kinematic Networks for Unsupervised Motion Retargetting. Proceedings of CVPR 2018.
+
+62. Shaojie Bai, J Zico Kolter, and Vladlen Koltun. 2018. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling. arXiv preprint 
+arXiv:1803.01271 (2018).
+
+63. Daniel Holden, Jun Saito, and Taku Komura. 2016. A deep learning framework for character motion synthesis and editing. ACM Trans on Graph 35, 4 (2016).
+
+64. Daniel Holden, Taku Komura, and Jun Saito. 2017. Phase-functioned neural networks for character control. ACM Trans on Graph 36, 4 (2017), 42.
+
+65. Robert A Jacobs, Michael I Jordan, Steven J Nowlan, and Geoffrey E Hinton. 1991. Adaptive mixtures of local experts. Neural Computation 3, 1 (1991), 79–87
+
+66. Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, and Sergey Levine. 2018b. SFV: reinforcement learning of physical skills from videos. ACM Trans on Graph 37, 6 
+(2018).
+
+67. Wenhao Yu, Greg Turk, and C Karen Liu. 2018. Learning symmetric and low-energy locomotion. ACM Trans on Graph 37, 4 (2018).
 
